@@ -1,1 +1,1 @@
-# Plant-Decease-Classification-using-Random-Forest-
+# Plant-Decease-Classification-using-Random-Forest
